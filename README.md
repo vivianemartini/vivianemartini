@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vivi. Welcome to my GitHub 🌱
+### Hi there 👋 I'm Vivi. Welcome to my GitHub 🌱
 
 <hr />
 
