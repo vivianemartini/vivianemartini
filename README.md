@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Vivi. Welcome to my GitHub 🌱
 
-<hr />
+<br />
 
-<br/>
 ### About Me 🚀
 
 🏳️‍🌈 Pronouns: she/her </br> </br>
