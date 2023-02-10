@@ -5,7 +5,7 @@
 ### About Me 🚀
 
 🏳️‍🌈 Pronouns: she/her </br> </br>
-💻 I’m currently a **Jr. Software Engineer** </br> </br>
+💻 **Jr. Front-end developer** </br> </br>
 🔭 I’m currently working at [Wunderman Thompson Technology](https://www.wundermanthompson.com/brazil) </br> </br>
 🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br> </br>
 ⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br> </br>
