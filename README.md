@@ -7,6 +7,7 @@
 🏳️‍🌈 Pronouns: she/her </br> </br>
 💻 **Front-end Developer** </br> </br>
 🔭 I’m currently working at [Wunderman Thompson Technology](https://www.wundermanthompson.com/brazil) </br> </br>
+🌱 I’m currently learning React at [Rocketseat](https://www.rocketseat.com.br/) and [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR) </br> </br>
 🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br> </br>
 ⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br> </br>
 
@@ -15,6 +16,12 @@
 ### Social Links
 <a href="https://www.linkedin.com/in/viviane-martini/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  />
+</a>
+<a href="https://dev.to/vivianemartini">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />     
+</a>
+<a href="https://twitter.com/coffeeeandcode">
+   <img  align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />       
 </a>
 
 <br/>
@@ -29,7 +36,7 @@
 <br/>
 <hr />
 
-## ⚡ Technologies I love and use
+## ⚡ Technologies 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -37,6 +44,7 @@
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
@@ -45,12 +53,18 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"">
   <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- 
-   
- 
-                                                              
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+          
+                                                      
 </div>
+ 
+<br/>
+<hr />
+  
+### Hacktoberfest 
 
+<img  align="left" width="500px" height="200px" src="https://github.com/vivianemartini/vivianemartini/blob/main/hacktoberfest2022.png" />       
+  
 <!--
 **vivianemartini/vivianemartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
