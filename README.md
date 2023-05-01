@@ -17,11 +17,11 @@
 <a href="https://www.linkedin.com/in/viviane-martini/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  />
 </a>
-<a href="https://dev.to/vivianemartini">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />     
-</a>
 <a href="https://twitter.com/coffeeeandcode">
-   <img  align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />       
+  <img  align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />    
+</a>
+<a href="https://dev.to/vivianemartini">
+  <img align="left" width="24px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />        
 </a>
 
 <br/>
