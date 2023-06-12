@@ -4,12 +4,13 @@
 
 ### About Me 🚀
 
-🏳️‍🌈 Pronouns: she/her </br> </br>
-💻 **Front-end Developer** </br> </br>
-🔭 I’m currently working at [Wunderman Thompson Technology](https://www.wundermanthompson.com/brazil) </br> </br>
-🌱 I’m currently learning React at [Rocketseat](https://www.rocketseat.com.br/) and [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR) </br> </br>
-🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br> </br>
-⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br> </br>
+💻 **Front-end Developer** </br>
+🔭 I’m currently working at [Wunderman Thompson Technology](https://www.wundermanthompson.com/brazil) </br>
+🌱 I’m learning React at [Rocketseat](https://www.rocketseat.com.br/) and [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR) </br>
+🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br>
+⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br>
+🤝  I'm open to collaborating on Projects </br>
+🏳️‍🌈 Pronouns: she/her </br>
 
 <hr />
 
@@ -70,6 +71,7 @@
 
 Here are some ideas to get you started:
 
+ 🖥️  See my portfolio at 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
