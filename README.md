@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Vivi. Welcome to my GitHub 🌱
 
 <br />
-
 ### About Me 🚀
 
 💻 **Front-end Developer** </br>
