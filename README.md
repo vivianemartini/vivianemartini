@@ -28,10 +28,9 @@
 <br/>
 <hr />
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/vivianemartini">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VivianeMartini&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VivianeMartini&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 <br/>
