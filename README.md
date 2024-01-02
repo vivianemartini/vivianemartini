@@ -6,7 +6,7 @@
 
 💻 **Front-end Developer** </br>
 🔭 I’m currently working at [Wunderman Thompson Technology](https://www.wundermanthompson.com/brazil) </br>
-🌱 I’m learning React at [Rocketseat](https://www.rocketseat.com.br/) and [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR) </br>
+🌱 I study at [Rocketseat](https://www.rocketseat.com.br/) and [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR) </br>
 🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br>
 ⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br>
 🤝  I'm open to collaborating on Projects </br>
@@ -39,9 +39,10 @@
 ## ⚡ Technologies 
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
