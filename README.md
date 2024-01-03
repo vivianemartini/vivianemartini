@@ -6,7 +6,7 @@
 
 💻 **Front-end Developer** </br>
 🔭 I’m currently working at [Wunderman Thompson Technology](https://www.wundermanthompson.com/brazil) </br>
-🌱 I study at [Rocketseat](https://www.rocketseat.com.br/) and [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=pt-BR) </br>
+🌱 I study at [Rocketseat](https://www.rocketseat.com.br/).</br>
 🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br>
 ⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br>
 🤝  I'm open to collaborating on Projects </br>
