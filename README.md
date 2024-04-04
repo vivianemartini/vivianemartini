@@ -22,10 +22,9 @@
 <br/>
 <hr />
 
-<div align="left">
-  <a href="https://github.com/vivianemartini">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VivianeMartini&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-</div>
+![Viviane's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivianemartini&hide=stars,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianemartini&layout=compact)](https://github.com/vivianemartini/github-readme-stats)
 
 <br/>
 <hr />
@@ -40,7 +39,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"">
+  <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -55,10 +54,6 @@
  
 <br/>
 <hr />
-  
-### Hacktoberfest 
-
-<img  align="left" width="500px" height="200px" src="https://github.com/vivianemartini/vivianemartini/blob/main/hacktoberfest2022.png" />       
   
 <!--
 **vivianemartini/vivianemartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
