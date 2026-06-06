@@ -5,10 +5,8 @@
 ### About Me 🚀
 
 💻 **Front-end Developer** </br>
-🔭 I’m currently working at VML </br>
-🌱 I study at [Rocketseat](https://www.rocketseat.com.br/).</br>
-🤓 I gratuated in Languages - Eng./Port and I have a Master's degree in Comparative Literature </br>
-⚡ Fun fact: I love pop culture, even got a Specialisation degree on it </br>
+🔎 **QA Lead**
+
 
 <hr />
 
@@ -18,14 +16,7 @@
 </a>
 
 <br/>
-<hr />
 
-![Viviane's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivianemartini&hide=stars,issues,contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianemartini&layout=compact)](https://github.com/vivianemartini/github-readme-stats)
-
-<br/>
-<hr />
 
 ## ⚡ Technologies 
   
